@@ -1,0 +1,1001 @@
+user_id,gender,age,food_item,food_type,order_time,calories,mood_score,stress_level,activity_level,responded_to_nudge
+U0001,Male,42,tofu stir-fry,healthy,Afternoon,607,5,2,Moderate,yes
+U0002,Male,44,ramen,junk,Evening,914,9,1,Active,yes
+U0003,Female,24,sushi,healthy,Afternoon,514,1,2,Moderate,no
+U0004,Male,72,dumplings,balanced,Afternoon,902,1,3,Sedentary,yes
+U0005,Male,71,kimchi,healthy,Evening,948,7,1,Active,no
+U0006,Male,37,pho,balanced,Morning,935,3,3,Sedentary,yes
+U0007,Male,37,dumplings,balanced,Night,910,1,2,Moderate,no
+U0008,Female,26,pho,balanced,Afternoon,596,3,2,Moderate,yes
+U0009,Female,33,teriyaki chicken,balanced,Evening,515,9,2,Active,no
+U0010,Female,62,sushi,healthy,Evening,633,1,2,Moderate,yes
+U0011,Male,64,teriyaki chicken,balanced,Morning,711,4,3,Moderate,yes
+U0012,Male,69,kimchi,healthy,Evening,1140,5,2,Moderate,no
+U0013,Male,64,teriyaki chicken,balanced,Morning,853,3,3,Moderate,no
+U0014,Male,65,fried rice,junk,Morning,704,2,3,Moderate,yes
+U0015,Female,53,spring rolls,healthy,Afternoon,600,9,1,Active,yes
+U0016,Female,23,ramen,junk,Evening,490,1,3,Moderate,no
+U0017,Female,22,spring rolls,healthy,Afternoon,1069,3,2,Moderate,no
+U0018,Female,68,boba tea,junk,Afternoon,931,3,3,Sedentary,no
+U0019,Female,18,spring rolls,healthy,Night,602,7,1,Active,no
+U0020,Male,42,boba tea,junk,Morning,830,3,2,Sedentary,yes
+U0021,Female,39,boba tea,junk,Night,1064,7,1,Active,no
+U0022,Male,18,sushi,healthy,Night,969,9,1,Active,no
+U0023,Female,43,spring rolls,healthy,Afternoon,650,1,3,Moderate,yes
+U0024,Male,75,ramen,junk,Night,765,2,3,Moderate,yes
+U0025,Male,74,tofu stir-fry,healthy,Morning,1128,10,1,Active,yes
+U0026,Female,34,ramen,junk,Night,770,7,1,Active,yes
+U0027,Female,40,sushi,healthy,Evening,857,9,2,Active,no
+U0028,Male,36,teriyaki chicken,balanced,Evening,879,2,3,Sedentary,no
+U0029,Male,54,sushi,healthy,Evening,932,3,2,Sedentary,no
+U0030,Female,68,sushi,healthy,Night,931,9,1,Active,yes
+U0031,Male,71,teriyaki chicken,balanced,Night,942,4,2,Sedentary,no
+U0032,Female,34,ramen,junk,Evening,757,9,1,Active,yes
+U0033,Male,31,fried rice,junk,Night,681,2,2,Sedentary,no
+U0034,Female,47,kimchi,healthy,Night,720,7,1,Active,yes
+U0035,Male,49,tofu stir-fry,healthy,Evening,324,4,3,Moderate,no
+U0036,Female,59,sushi,healthy,Afternoon,483,9,1,Active,yes
+U0037,Female,44,teriyaki chicken,balanced,Evening,501,3,2,Moderate,yes
+U0038,Male,63,dumplings,balanced,Afternoon,1312,10,1,Active,no
+U0039,Female,33,teriyaki chicken,balanced,Night,670,1,3,Moderate,no
+U0040,Female,37,dumplings,balanced,Night,989,4,2,Moderate,yes
+U0041,Female,47,sushi,healthy,Evening,471,7,1,Active,yes
+U0042,Female,72,dumplings,balanced,Afternoon,682,2,3,Sedentary,no
+U0043,Male,61,spring rolls,healthy,Morning,1048,5,2,Sedentary,no
+U0044,Male,46,dumplings,balanced,Morning,834,9,1,Active,yes
+U0045,Female,59,pho,balanced,Night,961,3,3,Sedentary,yes
+U0046,Male,66,tofu stir-fry,healthy,Evening,915,2,3,Moderate,yes
+U0047,Female,33,ramen,junk,Night,909,10,2,Active,yes
+U0048,Female,68,spring rolls,healthy,Afternoon,511,9,1,Active,no
+U0049,Male,36,kimchi,healthy,Evening,733,2,2,Sedentary,no
+U0050,Male,67,fried rice,junk,Afternoon,857,4,2,Moderate,yes
+U0051,Male,70,spring rolls,healthy,Afternoon,900,8,1,Active,yes
+U0052,Female,76,teriyaki chicken,balanced,Night,1011,8,1,Active,yes
+U0053,Male,69,teriyaki chicken,balanced,Afternoon,563,5,3,Sedentary,no
+U0054,Male,66,spring rolls,healthy,Night,964,7,1,Active,yes
+U0055,Female,55,dumplings,balanced,Evening,592,10,1,Active,no
+U0056,Male,18,fried rice,junk,Night,517,3,3,Moderate,yes
+U0057,Female,56,fried rice,junk,Evening,1030,8,1,Active,yes
+U0058,Female,36,ramen,junk,Afternoon,1018,3,3,Sedentary,yes
+U0059,Female,78,spring rolls,healthy,Night,1146,2,3,Sedentary,no
+U0060,Male,42,ramen,junk,Evening,915,9,1,Active,yes
+U0061,Male,71,kimchi,healthy,Night,689,7,1,Active,yes
+U0062,Male,45,sushi,healthy,Night,546,7,2,Active,no
+U0063,Male,79,fried rice,junk,Morning,599,8,1,Active,no
+U0064,Male,20,spring rolls,healthy,Afternoon,678,3,3,Moderate,no
+U0065,Female,67,fried rice,junk,Evening,706,10,1,Active,yes
+U0066,Male,43,dumplings,balanced,Night,779,1,2,Sedentary,no
+U0067,Female,20,spring rolls,healthy,Evening,697,1,3,Sedentary,yes
+U0068,Female,49,spring rolls,healthy,Morning,611,5,3,Sedentary,no
+U0069,Male,25,ramen,junk,Afternoon,503,1,3,Moderate,yes
+U0070,Male,45,boba tea,junk,Afternoon,1047,5,2,Moderate,yes
+U0071,Male,50,ramen,junk,Night,926,8,1,Active,yes
+U0072,Female,55,dumplings,balanced,Evening,1270,5,2,Moderate,no
+U0073,Male,50,boba tea,junk,Night,911,1,2,Moderate,no
+U0074,Male,73,pho,balanced,Afternoon,924,5,3,Sedentary,no
+U0075,Male,67,dumplings,balanced,Afternoon,1105,4,3,Moderate,no
+U0076,Female,22,boba tea,junk,Morning,1030,3,2,Moderate,no
+U0077,Male,53,ramen,junk,Afternoon,1000,10,1,Active,yes
+U0078,Male,37,teriyaki chicken,balanced,Evening,1077,10,1,Active,no
+U0079,Male,41,kimchi,healthy,Night,975,2,2,Moderate,no
+U0080,Female,53,teriyaki chicken,balanced,Evening,922,4,2,Sedentary,yes
+U0081,Male,42,fried rice,junk,Night,814,9,1,Active,yes
+U0082,Male,25,fried rice,junk,Evening,641,3,2,Moderate,yes
+U0083,Male,31,kimchi,healthy,Morning,759,4,3,Sedentary,yes
+U0084,Male,34,dumplings,balanced,Afternoon,1101,3,3,Sedentary,no
+U0085,Female,66,pho,balanced,Morning,877,1,3,Sedentary,no
+U0086,Male,53,dumplings,balanced,Morning,544,5,2,Sedentary,no
+U0087,Female,47,kimchi,healthy,Night,701,3,3,Sedentary,yes
+U0088,Female,72,ramen,junk,Evening,714,10,1,Active,yes
+U0089,Female,29,sushi,healthy,Evening,1180,2,3,Moderate,no
+U0090,Female,52,dumplings,balanced,Evening,975,9,2,Active,yes
+U0091,Female,59,tofu stir-fry,healthy,Evening,769,5,2,Moderate,no
+U0092,Male,54,fried rice,junk,Evening,962,5,3,Moderate,no
+U0093,Male,20,teriyaki chicken,balanced,Afternoon,584,7,2,Active,yes
+U0094,Male,18,kimchi,healthy,Evening,692,10,2,Active,no
+U0095,Male,50,pho,balanced,Afternoon,958,3,2,Sedentary,no
+U0096,Female,55,spring rolls,healthy,Night,337,9,1,Active,no
+U0097,Female,66,spring rolls,healthy,Evening,802,3,3,Moderate,no
+U0098,Female,47,teriyaki chicken,balanced,Morning,702,1,3,Sedentary,no
+U0099,Female,71,teriyaki chicken,balanced,Morning,1032,2,3,Sedentary,yes
+U0100,Male,79,pho,balanced,Evening,1078,1,2,Sedentary,no
+U0101,Male,39,spring rolls,healthy,Night,930,7,2,Active,yes
+U0102,Female,19,fried rice,junk,Night,910,5,3,Moderate,yes
+U0103,Male,62,dumplings,balanced,Afternoon,456,5,3,Moderate,no
+U0104,Female,32,tofu stir-fry,healthy,Evening,776,7,1,Active,yes
+U0105,Male,58,dumplings,balanced,Night,985,4,3,Moderate,yes
+U0106,Male,24,boba tea,junk,Night,1044,7,2,Active,no
+U0107,Female,47,sushi,healthy,Morning,797,4,2,Moderate,no
+U0108,Female,52,fried rice,junk,Evening,657,10,1,Active,no
+U0109,Female,79,dumplings,balanced,Afternoon,1017,1,2,Sedentary,no
+U0110,Female,49,spring rolls,healthy,Evening,993,8,2,Active,no
+U0111,Female,79,sushi,healthy,Night,638,8,1,Active,yes
+U0112,Male,25,spring rolls,healthy,Evening,754,5,2,Moderate,no
+U0113,Male,69,spring rolls,healthy,Night,926,4,2,Moderate,yes
+U0114,Male,32,teriyaki chicken,balanced,Night,780,3,2,Sedentary,no
+U0115,Female,19,spring rolls,healthy,Evening,731,2,3,Moderate,yes
+U0116,Male,58,boba tea,junk,Morning,713,3,2,Moderate,no
+U0117,Male,69,teriyaki chicken,balanced,Afternoon,629,7,1,Active,yes
+U0118,Female,77,boba tea,junk,Afternoon,592,8,1,Active,yes
+U0119,Female,33,spring rolls,healthy,Morning,996,10,1,Active,no
+U0120,Female,30,boba tea,junk,Evening,519,4,2,Sedentary,no
+U0121,Male,52,boba tea,junk,Evening,730,7,1,Active,no
+U0122,Male,41,pho,balanced,Afternoon,886,7,1,Active,no
+U0123,Male,75,fried rice,junk,Afternoon,882,5,3,Moderate,no
+U0124,Female,35,dumplings,balanced,Afternoon,483,5,2,Moderate,yes
+U0125,Male,64,ramen,junk,Afternoon,539,3,3,Sedentary,yes
+U0126,Female,25,kimchi,healthy,Morning,719,3,3,Moderate,no
+U0127,Male,54,kimchi,healthy,Morning,600,2,3,Moderate,no
+U0128,Female,47,boba tea,junk,Night,1064,2,2,Moderate,no
+U0129,Female,69,teriyaki chicken,balanced,Evening,654,4,3,Moderate,yes
+U0130,Female,47,kimchi,healthy,Morning,667,7,1,Active,yes
+U0131,Male,44,tofu stir-fry,healthy,Afternoon,942,5,2,Moderate,no
+U0132,Female,39,pho,balanced,Night,837,4,3,Sedentary,no
+U0133,Female,52,boba tea,junk,Afternoon,1148,4,3,Moderate,no
+U0134,Female,70,tofu stir-fry,healthy,Night,546,4,2,Moderate,no
+U0135,Male,42,boba tea,junk,Afternoon,723,2,2,Moderate,no
+U0136,Male,64,pho,balanced,Night,654,3,3,Moderate,no
+U0137,Female,52,fried rice,junk,Night,1219,4,2,Sedentary,no
+U0138,Male,43,ramen,junk,Evening,1165,3,2,Sedentary,no
+U0139,Male,56,spring rolls,healthy,Afternoon,1220,1,2,Moderate,no
+U0140,Male,49,dumplings,balanced,Morning,722,1,3,Sedentary,no
+U0141,Female,71,teriyaki chicken,balanced,Morning,531,10,2,Active,no
+U0142,Male,36,teriyaki chicken,balanced,Evening,632,2,2,Moderate,no
+U0143,Female,78,dumplings,balanced,Evening,444,3,3,Moderate,yes
+U0144,Female,31,pho,balanced,Evening,1016,4,2,Sedentary,yes
+U0145,Male,28,ramen,junk,Morning,652,4,3,Moderate,yes
+U0146,Male,71,sushi,healthy,Night,713,5,2,Moderate,no
+U0147,Male,54,ramen,junk,Afternoon,798,5,3,Sedentary,no
+U0148,Male,66,tofu stir-fry,healthy,Evening,831,10,1,Active,no
+U0149,Male,79,boba tea,junk,Morning,668,2,2,Sedentary,no
+U0150,Male,41,kimchi,healthy,Afternoon,567,8,1,Active,no
+U0151,Male,53,sushi,healthy,Morning,797,10,2,Active,no
+U0152,Male,26,boba tea,junk,Evening,896,1,2,Moderate,no
+U0153,Female,21,fried rice,junk,Night,734,5,3,Moderate,no
+U0154,Female,20,sushi,healthy,Night,1130,4,3,Sedentary,no
+U0155,Male,21,fried rice,junk,Night,632,8,1,Active,no
+U0156,Male,70,tofu stir-fry,healthy,Morning,958,10,1,Active,no
+U0157,Female,24,teriyaki chicken,balanced,Evening,787,2,2,Sedentary,yes
+U0158,Female,39,kimchi,healthy,Afternoon,832,3,2,Sedentary,no
+U0159,Female,59,sushi,healthy,Morning,1217,4,3,Sedentary,no
+U0160,Male,62,pho,balanced,Morning,679,7,1,Active,yes
+U0161,Male,26,ramen,junk,Night,571,10,1,Active,yes
+U0162,Male,31,dumplings,balanced,Morning,660,2,3,Sedentary,yes
+U0163,Female,19,ramen,junk,Afternoon,840,7,1,Active,yes
+U0164,Male,43,pho,balanced,Afternoon,559,4,2,Moderate,yes
+U0165,Male,63,fried rice,junk,Night,1103,7,1,Active,yes
+U0166,Male,75,pho,balanced,Night,971,3,3,Moderate,no
+U0167,Female,69,boba tea,junk,Evening,1148,1,3,Sedentary,yes
+U0168,Male,42,teriyaki chicken,balanced,Night,609,5,3,Moderate,no
+U0169,Male,74,sushi,healthy,Morning,1313,3,3,Moderate,no
+U0170,Female,66,sushi,healthy,Night,1008,3,2,Sedentary,yes
+U0171,Female,72,dumplings,balanced,Evening,596,2,2,Sedentary,yes
+U0172,Male,75,boba tea,junk,Morning,1029,10,1,Active,yes
+U0173,Male,41,dumplings,balanced,Morning,756,5,2,Moderate,no
+U0174,Female,73,sushi,healthy,Afternoon,730,5,3,Sedentary,no
+U0175,Female,66,spring rolls,healthy,Evening,758,3,3,Moderate,no
+U0176,Female,52,sushi,healthy,Morning,960,9,1,Active,no
+U0177,Female,33,teriyaki chicken,balanced,Afternoon,489,5,2,Moderate,no
+U0178,Female,66,spring rolls,healthy,Night,927,4,2,Sedentary,no
+U0179,Male,75,boba tea,junk,Evening,804,2,2,Moderate,no
+U0180,Male,43,fried rice,junk,Afternoon,718,5,3,Moderate,no
+U0181,Male,47,fried rice,junk,Afternoon,951,2,3,Sedentary,yes
+U0182,Female,78,tofu stir-fry,healthy,Night,968,7,1,Active,no
+U0183,Male,50,ramen,junk,Evening,885,5,3,Sedentary,no
+U0184,Male,45,boba tea,junk,Night,949,5,3,Moderate,yes
+U0185,Female,27,dumplings,balanced,Evening,661,4,3,Sedentary,yes
+U0186,Male,56,boba tea,junk,Night,836,5,3,Sedentary,no
+U0187,Female,52,kimchi,healthy,Afternoon,984,10,1,Active,no
+U0188,Male,45,kimchi,healthy,Morning,756,10,1,Active,yes
+U0189,Female,25,pho,balanced,Evening,260,5,2,Moderate,no
+U0190,Male,61,fried rice,junk,Evening,784,2,2,Moderate,no
+U0191,Female,58,teriyaki chicken,balanced,Morning,544,2,2,Moderate,no
+U0192,Male,44,tofu stir-fry,healthy,Night,976,5,2,Moderate,no
+U0193,Female,55,kimchi,healthy,Morning,778,4,2,Sedentary,yes
+U0194,Female,66,kimchi,healthy,Night,513,8,1,Active,yes
+U0195,Male,56,ramen,junk,Evening,930,1,2,Moderate,yes
+U0196,Male,50,sushi,healthy,Afternoon,1038,1,3,Sedentary,yes
+U0197,Male,71,boba tea,junk,Evening,910,3,2,Sedentary,no
+U0198,Male,44,sushi,healthy,Afternoon,896,1,2,Moderate,yes
+U0199,Female,78,kimchi,healthy,Night,614,7,1,Active,yes
+U0200,Male,77,spring rolls,healthy,Evening,688,2,2,Sedentary,no
+U0201,Male,75,boba tea,junk,Night,1215,7,1,Active,yes
+U0202,Female,27,boba tea,junk,Morning,917,8,1,Active,yes
+U0203,Male,70,tofu stir-fry,healthy,Afternoon,478,3,2,Sedentary,no
+U0204,Female,21,teriyaki chicken,balanced,Evening,876,4,2,Sedentary,no
+U0205,Female,74,boba tea,junk,Afternoon,851,9,1,Active,yes
+U0206,Male,34,tofu stir-fry,healthy,Afternoon,921,3,2,Sedentary,no
+U0207,Male,49,kimchi,healthy,Night,743,10,2,Active,yes
+U0208,Male,22,spring rolls,healthy,Evening,768,8,1,Active,yes
+U0209,Male,57,sushi,healthy,Evening,1043,9,2,Active,no
+U0210,Male,77,teriyaki chicken,balanced,Morning,863,2,2,Moderate,no
+U0211,Male,47,dumplings,balanced,Night,1178,1,3,Sedentary,no
+U0212,Female,76,pho,balanced,Morning,528,2,2,Moderate,no
+U0213,Female,75,kimchi,healthy,Night,551,5,3,Sedentary,yes
+U0214,Female,52,spring rolls,healthy,Night,1003,2,2,Sedentary,no
+U0215,Male,61,fried rice,junk,Night,1106,2,3,Sedentary,yes
+U0216,Male,63,spring rolls,healthy,Afternoon,777,7,1,Active,no
+U0217,Female,19,ramen,junk,Evening,705,3,3,Sedentary,no
+U0218,Female,45,teriyaki chicken,balanced,Night,831,1,3,Moderate,no
+U0219,Male,41,kimchi,healthy,Evening,789,5,3,Sedentary,yes
+U0220,Male,70,tofu stir-fry,healthy,Night,585,2,2,Sedentary,no
+U0221,Male,53,ramen,junk,Evening,312,2,2,Moderate,no
+U0222,Female,25,spring rolls,healthy,Afternoon,585,5,2,Moderate,no
+U0223,Male,47,sushi,healthy,Afternoon,1033,3,2,Sedentary,no
+U0224,Female,18,dumplings,balanced,Evening,1091,10,1,Active,no
+U0225,Male,65,spring rolls,healthy,Morning,751,3,3,Moderate,yes
+U0226,Female,49,teriyaki chicken,balanced,Afternoon,780,3,2,Moderate,no
+U0227,Male,73,sushi,healthy,Afternoon,1152,1,2,Sedentary,no
+U0228,Female,23,fried rice,junk,Night,685,2,3,Moderate,no
+U0229,Male,50,fried rice,junk,Morning,937,7,1,Active,no
+U0230,Female,19,boba tea,junk,Evening,793,3,2,Sedentary,no
+U0231,Male,21,tofu stir-fry,healthy,Morning,711,1,2,Sedentary,yes
+U0232,Male,46,spring rolls,healthy,Morning,603,3,2,Sedentary,no
+U0233,Male,66,tofu stir-fry,healthy,Evening,702,10,2,Active,yes
+U0234,Female,42,pho,balanced,Afternoon,839,8,2,Active,no
+U0235,Male,50,tofu stir-fry,healthy,Afternoon,769,10,1,Active,yes
+U0236,Male,62,tofu stir-fry,healthy,Night,595,5,2,Moderate,yes
+U0237,Male,32,kimchi,healthy,Afternoon,664,4,2,Sedentary,yes
+U0238,Female,25,fried rice,junk,Morning,603,5,3,Moderate,no
+U0239,Male,63,fried rice,junk,Night,1145,9,1,Active,yes
+U0240,Male,53,dumplings,balanced,Morning,780,7,2,Active,yes
+U0241,Female,58,tofu stir-fry,healthy,Morning,1040,3,3,Sedentary,no
+U0242,Female,22,dumplings,balanced,Morning,1034,1,2,Moderate,yes
+U0243,Female,23,sushi,healthy,Afternoon,831,3,2,Sedentary,yes
+U0244,Female,79,fried rice,junk,Morning,709,5,3,Sedentary,no
+U0245,Male,61,spring rolls,healthy,Morning,1104,4,3,Moderate,no
+U0246,Male,79,kimchi,healthy,Morning,820,1,3,Moderate,no
+U0247,Female,27,sushi,healthy,Afternoon,1118,5,3,Sedentary,no
+U0248,Female,29,ramen,junk,Evening,1067,2,2,Moderate,yes
+U0249,Male,26,dumplings,balanced,Evening,1158,4,2,Moderate,yes
+U0250,Male,31,dumplings,balanced,Evening,919,2,3,Sedentary,yes
+U0251,Female,55,dumplings,balanced,Afternoon,790,5,3,Sedentary,yes
+U0252,Male,36,spring rolls,healthy,Night,523,3,3,Moderate,no
+U0253,Female,62,boba tea,junk,Evening,938,5,3,Sedentary,no
+U0254,Male,35,spring rolls,healthy,Afternoon,769,5,2,Sedentary,yes
+U0255,Female,50,dumplings,balanced,Afternoon,703,10,2,Active,no
+U0256,Male,66,tofu stir-fry,healthy,Afternoon,800,8,1,Active,no
+U0257,Female,22,boba tea,junk,Afternoon,916,2,3,Moderate,no
+U0258,Male,18,sushi,healthy,Afternoon,1164,9,1,Active,no
+U0259,Male,27,kimchi,healthy,Morning,1075,3,2,Sedentary,no
+U0260,Male,75,ramen,junk,Afternoon,1048,9,1,Active,no
+U0261,Male,71,tofu stir-fry,healthy,Afternoon,588,9,1,Active,yes
+U0262,Female,52,spring rolls,healthy,Night,1148,4,2,Moderate,no
+U0263,Male,47,teriyaki chicken,balanced,Evening,1026,1,3,Sedentary,no
+U0264,Male,44,kimchi,healthy,Evening,745,2,2,Moderate,yes
+U0265,Male,52,sushi,healthy,Morning,852,10,1,Active,yes
+U0266,Male,46,tofu stir-fry,healthy,Evening,1248,5,3,Sedentary,no
+U0267,Female,23,ramen,junk,Afternoon,821,4,3,Moderate,no
+U0268,Female,67,fried rice,junk,Evening,995,10,1,Active,yes
+U0269,Male,71,pho,balanced,Morning,889,4,3,Moderate,no
+U0270,Female,24,pho,balanced,Afternoon,512,1,3,Moderate,no
+U0271,Female,69,spring rolls,healthy,Evening,688,5,3,Moderate,yes
+U0272,Female,31,teriyaki chicken,balanced,Afternoon,1165,3,2,Moderate,yes
+U0273,Female,59,sushi,healthy,Morning,726,5,3,Moderate,no
+U0274,Female,54,pho,balanced,Morning,685,3,2,Sedentary,no
+U0275,Male,36,teriyaki chicken,balanced,Evening,919,5,2,Sedentary,yes
+U0276,Male,53,boba tea,junk,Evening,591,3,3,Moderate,yes
+U0277,Male,70,teriyaki chicken,balanced,Night,910,1,2,Sedentary,no
+U0278,Male,22,fried rice,junk,Afternoon,649,10,1,Active,yes
+U0279,Female,23,sushi,healthy,Night,768,5,3,Moderate,no
+U0280,Male,32,dumplings,balanced,Morning,1045,8,2,Active,no
+U0281,Female,59,spring rolls,healthy,Night,766,2,3,Sedentary,yes
+U0282,Male,56,teriyaki chicken,balanced,Night,630,7,1,Active,no
+U0283,Male,20,teriyaki chicken,balanced,Morning,654,8,2,Active,no
+U0284,Female,48,ramen,junk,Evening,898,10,2,Active,no
+U0285,Male,34,ramen,junk,Afternoon,513,8,1,Active,no
+U0286,Female,53,kimchi,healthy,Night,1292,9,1,Active,no
+U0287,Male,71,boba tea,junk,Night,888,5,2,Sedentary,no
+U0288,Female,59,teriyaki chicken,balanced,Afternoon,1118,4,2,Sedentary,no
+U0289,Female,71,pho,balanced,Morning,1037,8,2,Active,no
+U0290,Male,29,kimchi,healthy,Night,871,4,3,Moderate,yes
+U0291,Female,41,pho,balanced,Evening,1254,5,3,Sedentary,yes
+U0292,Male,72,fried rice,junk,Night,1026,4,3,Sedentary,yes
+U0293,Male,76,kimchi,healthy,Morning,571,4,2,Sedentary,no
+U0294,Male,75,sushi,healthy,Evening,964,1,2,Moderate,no
+U0295,Female,19,kimchi,healthy,Morning,973,2,3,Moderate,no
+U0296,Female,24,dumplings,balanced,Evening,1109,10,1,Active,yes
+U0297,Male,30,kimchi,healthy,Evening,399,4,2,Sedentary,no
+U0298,Male,79,ramen,junk,Night,1025,2,3,Moderate,no
+U0299,Female,75,dumplings,balanced,Night,1000,2,2,Moderate,no
+U0300,Male,56,fried rice,junk,Evening,681,7,1,Active,no
+U0301,Female,49,dumplings,balanced,Evening,640,3,3,Moderate,no
+U0302,Female,30,sushi,healthy,Afternoon,610,3,3,Sedentary,no
+U0303,Female,59,kimchi,healthy,Night,780,3,2,Sedentary,yes
+U0304,Male,71,kimchi,healthy,Afternoon,757,3,2,Moderate,no
+U0305,Male,56,teriyaki chicken,balanced,Evening,612,9,1,Active,yes
+U0306,Female,19,teriyaki chicken,balanced,Night,723,7,1,Active,no
+U0307,Female,52,fried rice,junk,Morning,1162,8,1,Active,yes
+U0308,Female,39,fried rice,junk,Morning,1014,8,1,Active,yes
+U0309,Male,24,tofu stir-fry,healthy,Evening,604,1,2,Sedentary,no
+U0310,Male,44,kimchi,healthy,Afternoon,894,4,2,Sedentary,no
+U0311,Female,66,fried rice,junk,Afternoon,796,8,1,Active,yes
+U0312,Female,63,pho,balanced,Evening,947,1,2,Moderate,yes
+U0313,Male,29,pho,balanced,Evening,751,1,2,Sedentary,no
+U0314,Male,24,pho,balanced,Afternoon,601,3,3,Sedentary,no
+U0315,Male,60,tofu stir-fry,healthy,Evening,814,2,2,Moderate,no
+U0316,Male,44,boba tea,junk,Evening,872,4,3,Moderate,no
+U0317,Male,19,dumplings,balanced,Evening,826,7,1,Active,yes
+U0318,Female,71,ramen,junk,Morning,1059,8,1,Active,yes
+U0319,Female,39,dumplings,balanced,Night,1061,3,2,Moderate,no
+U0320,Male,63,tofu stir-fry,healthy,Morning,1042,10,1,Active,no
+U0321,Male,32,kimchi,healthy,Afternoon,785,2,3,Moderate,no
+U0322,Male,20,boba tea,junk,Evening,512,9,1,Active,yes
+U0323,Male,69,kimchi,healthy,Morning,625,2,3,Sedentary,no
+U0324,Male,70,teriyaki chicken,balanced,Morning,900,7,1,Active,no
+U0325,Male,45,spring rolls,healthy,Night,728,10,2,Active,yes
+U0326,Male,37,tofu stir-fry,healthy,Night,862,3,2,Sedentary,no
+U0327,Female,62,tofu stir-fry,healthy,Evening,757,2,2,Moderate,no
+U0328,Female,53,ramen,junk,Morning,1030,4,3,Moderate,no
+U0329,Male,53,sushi,healthy,Night,1054,1,2,Sedentary,yes
+U0330,Male,47,teriyaki chicken,balanced,Evening,656,5,2,Sedentary,yes
+U0331,Male,37,spring rolls,healthy,Night,1080,7,2,Active,yes
+U0332,Female,38,tofu stir-fry,healthy,Evening,532,9,1,Active,yes
+U0333,Female,39,teriyaki chicken,balanced,Afternoon,868,3,3,Sedentary,no
+U0334,Male,61,spring rolls,healthy,Night,975,3,2,Sedentary,no
+U0335,Male,58,fried rice,junk,Morning,831,4,3,Moderate,yes
+U0336,Male,41,ramen,junk,Evening,866,8,2,Active,no
+U0337,Male,19,boba tea,junk,Morning,770,8,2,Active,yes
+U0338,Female,55,ramen,junk,Evening,1212,1,2,Moderate,no
+U0339,Female,54,tofu stir-fry,healthy,Morning,1037,10,2,Active,yes
+U0340,Male,75,dumplings,balanced,Afternoon,997,9,1,Active,yes
+U0341,Male,20,pho,balanced,Morning,694,7,1,Active,yes
+U0342,Male,19,boba tea,junk,Morning,991,5,3,Sedentary,no
+U0343,Female,78,fried rice,junk,Evening,658,1,2,Sedentary,no
+U0344,Male,26,pho,balanced,Afternoon,610,4,2,Moderate,yes
+U0345,Female,47,ramen,junk,Evening,619,7,1,Active,yes
+U0346,Male,41,spring rolls,healthy,Night,832,1,2,Moderate,yes
+U0347,Female,65,fried rice,junk,Afternoon,1007,5,2,Sedentary,yes
+U0348,Male,63,dumplings,balanced,Evening,1130,7,2,Active,yes
+U0349,Male,46,dumplings,balanced,Morning,937,9,1,Active,no
+U0350,Male,36,dumplings,balanced,Evening,454,5,3,Moderate,yes
+U0351,Female,67,boba tea,junk,Evening,990,10,2,Active,no
+U0352,Female,57,kimchi,healthy,Afternoon,962,3,3,Sedentary,yes
+U0353,Male,64,tofu stir-fry,healthy,Night,1212,3,2,Moderate,no
+U0354,Male,43,dumplings,balanced,Evening,1262,2,2,Moderate,yes
+U0355,Male,33,ramen,junk,Afternoon,1201,8,1,Active,no
+U0356,Male,28,boba tea,junk,Night,952,1,3,Sedentary,yes
+U0357,Female,45,fried rice,junk,Night,825,5,2,Moderate,no
+U0358,Female,22,fried rice,junk,Evening,1019,4,3,Moderate,yes
+U0359,Male,49,tofu stir-fry,healthy,Morning,1094,2,3,Moderate,no
+U0360,Female,36,fried rice,junk,Morning,726,1,2,Moderate,yes
+U0361,Male,50,spring rolls,healthy,Morning,1143,9,1,Active,yes
+U0362,Female,61,fried rice,junk,Night,353,4,3,Moderate,yes
+U0363,Female,33,sushi,healthy,Evening,715,7,1,Active,yes
+U0364,Male,38,dumplings,balanced,Morning,1140,3,2,Moderate,no
+U0365,Female,49,sushi,healthy,Evening,809,4,3,Sedentary,no
+U0366,Male,37,teriyaki chicken,balanced,Afternoon,579,5,3,Moderate,yes
+U0367,Female,37,teriyaki chicken,balanced,Night,949,3,2,Moderate,no
+U0368,Male,22,teriyaki chicken,balanced,Evening,867,7,1,Active,no
+U0369,Female,65,boba tea,junk,Night,1037,3,2,Moderate,no
+U0370,Female,33,fried rice,junk,Morning,705,8,2,Active,yes
+U0371,Male,29,sushi,healthy,Evening,548,2,3,Moderate,no
+U0372,Female,30,ramen,junk,Evening,773,4,2,Moderate,yes
+U0373,Male,49,spring rolls,healthy,Night,889,5,2,Sedentary,no
+U0374,Female,36,tofu stir-fry,healthy,Night,998,7,2,Active,no
+U0375,Male,46,sushi,healthy,Afternoon,941,3,2,Moderate,no
+U0376,Male,41,boba tea,junk,Morning,363,5,2,Moderate,no
+U0377,Female,56,kimchi,healthy,Evening,976,4,3,Sedentary,no
+U0378,Male,56,ramen,junk,Afternoon,487,10,2,Active,yes
+U0379,Male,22,dumplings,balanced,Afternoon,740,8,2,Active,yes
+U0380,Female,64,kimchi,healthy,Night,562,1,2,Sedentary,yes
+U0381,Female,66,ramen,junk,Night,924,10,2,Active,no
+U0382,Male,22,fried rice,junk,Afternoon,839,5,2,Moderate,no
+U0383,Female,58,sushi,healthy,Morning,587,2,3,Sedentary,no
+U0384,Male,59,boba tea,junk,Morning,1192,5,2,Sedentary,no
+U0385,Male,37,kimchi,healthy,Night,777,2,3,Moderate,no
+U0386,Female,31,sushi,healthy,Afternoon,674,2,2,Moderate,no
+U0387,Female,48,tofu stir-fry,healthy,Night,954,5,3,Moderate,no
+U0388,Male,61,fried rice,junk,Afternoon,821,5,3,Sedentary,no
+U0389,Male,50,pho,balanced,Afternoon,859,9,1,Active,no
+U0390,Male,65,tofu stir-fry,healthy,Afternoon,883,5,2,Moderate,no
+U0391,Male,43,fried rice,junk,Night,649,5,2,Moderate,no
+U0392,Female,50,boba tea,junk,Afternoon,511,1,2,Sedentary,no
+U0393,Female,78,fried rice,junk,Night,881,7,1,Active,no
+U0394,Male,18,boba tea,junk,Morning,539,2,2,Moderate,no
+U0395,Male,50,spring rolls,healthy,Morning,889,10,2,Active,no
+U0396,Male,31,pho,balanced,Night,998,1,2,Sedentary,no
+U0397,Female,52,boba tea,junk,Evening,556,3,3,Moderate,no
+U0398,Female,69,pho,balanced,Night,1092,4,2,Sedentary,no
+U0399,Male,56,dumplings,balanced,Evening,605,3,3,Sedentary,yes
+U0400,Female,66,fried rice,junk,Evening,988,5,3,Moderate,yes
+U0401,Female,77,spring rolls,healthy,Night,676,4,2,Moderate,no
+U0402,Female,47,pho,balanced,Evening,954,10,2,Active,no
+U0403,Female,40,spring rolls,healthy,Morning,391,10,1,Active,yes
+U0404,Male,32,teriyaki chicken,balanced,Afternoon,824,5,2,Moderate,no
+U0405,Male,54,tofu stir-fry,healthy,Morning,691,8,1,Active,yes
+U0406,Male,45,fried rice,junk,Evening,631,1,3,Moderate,yes
+U0407,Female,78,boba tea,junk,Evening,413,2,2,Moderate,no
+U0408,Male,50,pho,balanced,Evening,782,9,1,Active,yes
+U0409,Male,43,ramen,junk,Evening,692,5,2,Moderate,no
+U0410,Female,41,boba tea,junk,Evening,1083,4,2,Sedentary,no
+U0411,Female,76,tofu stir-fry,healthy,Afternoon,933,4,2,Sedentary,no
+U0412,Female,61,spring rolls,healthy,Evening,513,3,2,Sedentary,no
+U0413,Male,58,tofu stir-fry,healthy,Night,456,10,1,Active,yes
+U0414,Male,56,dumplings,balanced,Morning,1203,5,3,Sedentary,no
+U0415,Male,71,teriyaki chicken,balanced,Afternoon,1021,3,3,Sedentary,yes
+U0416,Male,18,dumplings,balanced,Night,716,3,2,Sedentary,no
+U0417,Female,68,kimchi,healthy,Night,763,7,2,Active,yes
+U0418,Female,77,spring rolls,healthy,Morning,564,8,1,Active,yes
+U0419,Male,44,boba tea,junk,Evening,807,5,2,Moderate,yes
+U0420,Male,32,boba tea,junk,Morning,750,1,3,Moderate,no
+U0421,Female,70,kimchi,healthy,Afternoon,557,2,2,Moderate,no
+U0422,Male,69,pho,balanced,Night,1009,3,3,Moderate,yes
+U0423,Male,75,tofu stir-fry,healthy,Evening,1234,8,1,Active,no
+U0424,Male,24,pho,balanced,Evening,718,5,3,Sedentary,no
+U0425,Male,22,boba tea,junk,Morning,606,9,1,Active,no
+U0426,Male,41,boba tea,junk,Morning,656,3,3,Moderate,yes
+U0427,Female,59,spring rolls,healthy,Morning,789,2,2,Sedentary,no
+U0428,Male,70,tofu stir-fry,healthy,Morning,306,1,3,Sedentary,yes
+U0429,Male,40,spring rolls,healthy,Morning,1240,4,3,Moderate,no
+U0430,Male,25,boba tea,junk,Morning,902,5,3,Sedentary,no
+U0431,Male,30,fried rice,junk,Evening,771,4,2,Sedentary,yes
+U0432,Male,53,kimchi,healthy,Morning,713,2,2,Sedentary,no
+U0433,Male,69,kimchi,healthy,Morning,522,4,2,Moderate,no
+U0434,Female,57,kimchi,healthy,Night,942,3,3,Moderate,no
+U0435,Female,59,tofu stir-fry,healthy,Evening,946,5,2,Sedentary,yes
+U0436,Female,71,ramen,junk,Afternoon,1276,4,3,Sedentary,yes
+U0437,Male,44,ramen,junk,Morning,936,2,3,Moderate,no
+U0438,Male,25,sushi,healthy,Night,739,8,1,Active,no
+U0439,Male,29,boba tea,junk,Morning,848,4,2,Moderate,no
+U0440,Male,61,boba tea,junk,Morning,662,5,3,Moderate,no
+U0441,Female,18,tofu stir-fry,healthy,Night,681,8,1,Active,yes
+U0442,Male,41,fried rice,junk,Morning,569,1,2,Moderate,no
+U0443,Male,23,dumplings,balanced,Afternoon,757,3,2,Sedentary,no
+U0444,Male,42,dumplings,balanced,Evening,633,2,2,Moderate,no
+U0445,Male,63,teriyaki chicken,balanced,Afternoon,1021,10,1,Active,yes
+U0446,Male,20,tofu stir-fry,healthy,Night,895,5,2,Moderate,no
+U0447,Male,28,pho,balanced,Evening,940,3,2,Moderate,no
+U0448,Male,52,dumplings,balanced,Evening,473,3,2,Moderate,no
+U0449,Male,65,kimchi,healthy,Morning,890,4,3,Moderate,no
+U0450,Male,50,dumplings,balanced,Night,1197,5,3,Sedentary,no
+U0451,Male,50,boba tea,junk,Morning,717,9,1,Active,yes
+U0452,Female,36,pho,balanced,Night,1187,9,2,Active,yes
+U0453,Male,69,spring rolls,healthy,Evening,1195,4,2,Sedentary,yes
+U0454,Male,64,pho,balanced,Afternoon,717,3,2,Sedentary,yes
+U0455,Male,42,pho,balanced,Afternoon,599,4,2,Moderate,yes
+U0456,Male,74,boba tea,junk,Afternoon,985,3,2,Sedentary,yes
+U0457,Male,22,kimchi,healthy,Afternoon,563,7,1,Active,yes
+U0458,Female,78,sushi,healthy,Afternoon,855,10,1,Active,yes
+U0459,Male,72,kimchi,healthy,Night,1032,3,2,Sedentary,no
+U0460,Female,48,boba tea,junk,Morning,821,10,1,Active,no
+U0461,Female,48,fried rice,junk,Evening,435,3,3,Sedentary,no
+U0462,Male,44,boba tea,junk,Afternoon,625,9,1,Active,yes
+U0463,Female,30,dumplings,balanced,Afternoon,666,8,1,Active,yes
+U0464,Male,36,teriyaki chicken,balanced,Evening,277,1,3,Moderate,no
+U0465,Female,69,tofu stir-fry,healthy,Evening,924,3,3,Sedentary,yes
+U0466,Female,41,spring rolls,healthy,Evening,1149,2,3,Sedentary,no
+U0467,Male,25,dumplings,balanced,Afternoon,532,5,3,Sedentary,no
+U0468,Male,52,ramen,junk,Afternoon,624,8,1,Active,yes
+U0469,Female,65,teriyaki chicken,balanced,Night,757,8,2,Active,yes
+U0470,Female,79,tofu stir-fry,healthy,Afternoon,919,5,3,Sedentary,no
+U0471,Female,33,dumplings,balanced,Morning,715,10,1,Active,no
+U0472,Male,71,fried rice,junk,Evening,957,7,1,Active,yes
+U0473,Male,22,fried rice,junk,Evening,937,2,3,Moderate,yes
+U0474,Female,33,teriyaki chicken,balanced,Afternoon,677,2,3,Moderate,no
+U0475,Male,58,fried rice,junk,Night,783,4,3,Moderate,yes
+U0476,Female,72,dumplings,balanced,Morning,626,1,2,Sedentary,no
+U0477,Female,47,pho,balanced,Morning,565,1,3,Sedentary,yes
+U0478,Male,54,dumplings,balanced,Evening,601,2,3,Moderate,no
+U0479,Male,20,tofu stir-fry,healthy,Afternoon,588,8,1,Active,yes
+U0480,Male,34,sushi,healthy,Afternoon,903,1,2,Sedentary,no
+U0481,Female,56,pho,balanced,Night,957,3,2,Sedentary,no
+U0482,Female,56,fried rice,junk,Night,1170,2,2,Sedentary,no
+U0483,Male,29,fried rice,junk,Morning,592,2,2,Moderate,no
+U0484,Male,29,tofu stir-fry,healthy,Morning,1253,7,1,Active,no
+U0485,Female,65,pho,balanced,Night,896,5,3,Sedentary,no
+U0486,Male,65,spring rolls,healthy,Night,1068,8,1,Active,no
+U0487,Female,60,boba tea,junk,Evening,531,8,2,Active,yes
+U0488,Female,41,kimchi,healthy,Evening,625,4,2,Sedentary,no
+U0489,Female,19,spring rolls,healthy,Morning,707,5,2,Moderate,no
+U0490,Male,40,fried rice,junk,Morning,1076,3,3,Moderate,no
+U0491,Female,79,dumplings,balanced,Afternoon,941,2,2,Moderate,no
+U0492,Female,61,spring rolls,healthy,Morning,566,5,3,Sedentary,yes
+U0493,Female,79,pho,balanced,Morning,861,2,2,Sedentary,yes
+U0494,Female,70,pho,balanced,Morning,874,5,2,Sedentary,no
+U0495,Male,22,dumplings,balanced,Evening,526,8,2,Active,yes
+U0496,Male,71,kimchi,healthy,Morning,850,4,3,Moderate,yes
+U0497,Male,36,dumplings,balanced,Morning,880,5,2,Moderate,no
+U0498,Female,40,spring rolls,healthy,Morning,583,4,3,Sedentary,no
+U0499,Male,57,kimchi,healthy,Night,907,9,2,Active,yes
+U0500,Female,18,boba tea,junk,Evening,952,1,2,Moderate,no
+U0501,Male,28,pho,balanced,Night,915,5,2,Sedentary,no
+U0502,Female,54,fried rice,junk,Afternoon,684,5,2,Sedentary,no
+U0503,Male,21,spring rolls,healthy,Night,853,5,3,Sedentary,no
+U0504,Female,19,tofu stir-fry,healthy,Evening,746,10,1,Active,yes
+U0505,Male,61,ramen,junk,Morning,269,9,1,Active,yes
+U0506,Male,41,dumplings,balanced,Afternoon,779,9,1,Active,yes
+U0507,Male,56,dumplings,balanced,Night,1093,4,2,Moderate,yes
+U0508,Female,72,kimchi,healthy,Evening,498,5,3,Sedentary,no
+U0509,Male,65,pho,balanced,Afternoon,755,1,2,Moderate,yes
+U0510,Male,77,tofu stir-fry,healthy,Afternoon,814,9,1,Active,yes
+U0511,Female,30,boba tea,junk,Afternoon,828,7,1,Active,no
+U0512,Female,43,ramen,junk,Afternoon,1127,3,2,Sedentary,no
+U0513,Male,39,ramen,junk,Morning,933,1,3,Moderate,no
+U0514,Female,34,tofu stir-fry,healthy,Afternoon,930,4,2,Moderate,yes
+U0515,Male,18,spring rolls,healthy,Morning,516,10,1,Active,yes
+U0516,Female,62,sushi,healthy,Night,698,2,2,Moderate,no
+U0517,Female,76,kimchi,healthy,Morning,520,3,3,Moderate,no
+U0518,Male,47,dumplings,balanced,Afternoon,913,10,1,Active,yes
+U0519,Female,41,teriyaki chicken,balanced,Afternoon,1018,9,1,Active,yes
+U0520,Female,62,sushi,healthy,Evening,1266,3,2,Sedentary,yes
+U0521,Male,46,tofu stir-fry,healthy,Evening,686,10,1,Active,no
+U0522,Male,69,sushi,healthy,Morning,1110,5,3,Sedentary,no
+U0523,Male,37,teriyaki chicken,balanced,Afternoon,662,10,1,Active,yes
+U0524,Female,79,ramen,junk,Morning,1008,3,2,Moderate,yes
+U0525,Female,18,teriyaki chicken,balanced,Morning,935,2,2,Moderate,yes
+U0526,Male,46,dumplings,balanced,Evening,1160,4,2,Sedentary,yes
+U0527,Female,33,boba tea,junk,Night,775,9,1,Active,yes
+U0528,Male,59,kimchi,healthy,Evening,1111,2,3,Sedentary,yes
+U0529,Male,40,sushi,healthy,Morning,1052,5,2,Moderate,no
+U0530,Male,18,fried rice,junk,Night,783,3,2,Sedentary,no
+U0531,Male,42,ramen,junk,Morning,955,4,3,Sedentary,no
+U0532,Female,59,boba tea,junk,Evening,603,1,2,Sedentary,yes
+U0533,Male,18,ramen,junk,Afternoon,802,8,1,Active,no
+U0534,Female,42,kimchi,healthy,Afternoon,1007,7,1,Active,no
+U0535,Male,48,dumplings,balanced,Afternoon,860,1,3,Moderate,no
+U0536,Male,36,teriyaki chicken,balanced,Afternoon,679,4,3,Moderate,no
+U0537,Male,41,pho,balanced,Night,572,10,1,Active,no
+U0538,Female,35,fried rice,junk,Afternoon,1290,1,2,Moderate,no
+U0539,Male,64,sushi,healthy,Morning,919,10,2,Active,no
+U0540,Female,75,tofu stir-fry,healthy,Evening,578,9,1,Active,no
+U0541,Male,74,dumplings,balanced,Afternoon,817,1,3,Sedentary,no
+U0542,Male,40,fried rice,junk,Night,874,5,3,Moderate,no
+U0543,Female,68,tofu stir-fry,healthy,Evening,573,1,3,Sedentary,yes
+U0544,Male,53,teriyaki chicken,balanced,Morning,922,4,2,Sedentary,yes
+U0545,Male,24,dumplings,balanced,Morning,1027,10,1,Active,no
+U0546,Female,79,fried rice,junk,Afternoon,1351,2,3,Sedentary,no
+U0547,Female,54,tofu stir-fry,healthy,Night,789,7,1,Active,yes
+U0548,Male,40,sushi,healthy,Morning,1057,4,3,Moderate,yes
+U0549,Male,66,fried rice,junk,Evening,1207,1,3,Sedentary,no
+U0550,Female,68,boba tea,junk,Evening,746,1,3,Moderate,no
+U0551,Male,70,sushi,healthy,Afternoon,935,2,2,Sedentary,no
+U0552,Female,76,ramen,junk,Evening,953,7,1,Active,yes
+U0553,Female,33,sushi,healthy,Afternoon,662,8,2,Active,no
+U0554,Female,22,fried rice,junk,Morning,949,1,3,Moderate,yes
+U0555,Female,28,fried rice,junk,Morning,849,3,3,Moderate,no
+U0556,Female,43,boba tea,junk,Morning,577,3,2,Moderate,yes
+U0557,Male,78,kimchi,healthy,Morning,938,1,3,Moderate,yes
+U0558,Male,31,fried rice,junk,Night,610,2,2,Sedentary,yes
+U0559,Female,43,boba tea,junk,Night,702,5,2,Sedentary,no
+U0560,Female,67,sushi,healthy,Afternoon,861,8,1,Active,no
+U0561,Female,75,sushi,healthy,Afternoon,1058,9,2,Active,yes
+U0562,Male,33,ramen,junk,Afternoon,1090,5,2,Sedentary,no
+U0563,Female,19,teriyaki chicken,balanced,Evening,831,1,3,Moderate,no
+U0564,Female,57,sushi,healthy,Night,998,3,3,Sedentary,no
+U0565,Male,69,boba tea,junk,Afternoon,654,9,1,Active,no
+U0566,Male,68,sushi,healthy,Morning,630,2,3,Moderate,no
+U0567,Female,76,ramen,junk,Evening,1002,1,3,Sedentary,yes
+U0568,Male,74,sushi,healthy,Afternoon,951,5,3,Moderate,yes
+U0569,Male,43,spring rolls,healthy,Night,1123,2,3,Sedentary,no
+U0570,Male,61,spring rolls,healthy,Evening,736,9,2,Active,no
+U0571,Male,29,fried rice,junk,Afternoon,489,9,1,Active,no
+U0572,Male,43,sushi,healthy,Night,789,3,2,Sedentary,no
+U0573,Male,26,boba tea,junk,Evening,639,9,2,Active,no
+U0574,Female,70,ramen,junk,Afternoon,917,5,3,Sedentary,yes
+U0575,Male,73,teriyaki chicken,balanced,Morning,877,1,3,Moderate,no
+U0576,Male,26,boba tea,junk,Morning,650,8,2,Active,yes
+U0577,Female,74,kimchi,healthy,Night,579,3,3,Sedentary,no
+U0578,Female,52,spring rolls,healthy,Afternoon,966,4,2,Sedentary,no
+U0579,Male,18,kimchi,healthy,Evening,978,10,1,Active,yes
+U0580,Male,56,sushi,healthy,Morning,838,4,2,Sedentary,yes
+U0581,Male,54,tofu stir-fry,healthy,Night,447,10,1,Active,no
+U0582,Male,61,sushi,healthy,Night,706,7,2,Active,no
+U0583,Male,74,boba tea,junk,Evening,948,3,3,Sedentary,no
+U0584,Female,33,fried rice,junk,Afternoon,864,3,2,Sedentary,yes
+U0585,Male,37,tofu stir-fry,healthy,Morning,708,2,3,Sedentary,yes
+U0586,Female,58,ramen,junk,Evening,1084,2,2,Sedentary,no
+U0587,Male,57,boba tea,junk,Afternoon,677,5,2,Sedentary,yes
+U0588,Female,33,fried rice,junk,Morning,1036,2,3,Moderate,yes
+U0589,Male,49,tofu stir-fry,healthy,Night,883,4,2,Sedentary,no
+U0590,Male,52,sushi,healthy,Afternoon,668,2,3,Moderate,no
+U0591,Male,77,teriyaki chicken,balanced,Evening,933,2,3,Moderate,yes
+U0592,Male,71,fried rice,junk,Night,945,4,2,Sedentary,no
+U0593,Male,75,dumplings,balanced,Morning,1218,2,2,Sedentary,no
+U0594,Male,72,pho,balanced,Evening,433,1,3,Moderate,yes
+U0595,Female,62,boba tea,junk,Afternoon,876,2,2,Moderate,no
+U0596,Male,26,teriyaki chicken,balanced,Evening,806,10,2,Active,yes
+U0597,Male,34,teriyaki chicken,balanced,Evening,954,8,1,Active,no
+U0598,Male,61,sushi,healthy,Night,914,5,3,Sedentary,yes
+U0599,Female,33,dumplings,balanced,Morning,1246,1,2,Sedentary,no
+U0600,Male,60,ramen,junk,Evening,846,1,3,Moderate,yes
+U0601,Female,78,spring rolls,healthy,Evening,1102,9,1,Active,yes
+U0602,Male,61,sushi,healthy,Morning,1058,4,3,Sedentary,yes
+U0603,Male,61,fried rice,junk,Night,1294,5,2,Moderate,no
+U0604,Female,52,boba tea,junk,Evening,942,7,1,Active,no
+U0605,Male,20,tofu stir-fry,healthy,Afternoon,493,1,2,Moderate,no
+U0606,Female,33,tofu stir-fry,healthy,Night,868,5,2,Sedentary,no
+U0607,Female,33,teriyaki chicken,balanced,Evening,784,7,1,Active,no
+U0608,Male,54,kimchi,healthy,Night,1020,3,2,Moderate,no
+U0609,Female,62,pho,balanced,Night,648,3,3,Moderate,no
+U0610,Female,53,teriyaki chicken,balanced,Night,939,4,3,Sedentary,yes
+U0611,Male,37,sushi,healthy,Afternoon,642,2,2,Moderate,no
+U0612,Female,79,spring rolls,healthy,Afternoon,865,1,3,Sedentary,no
+U0613,Male,56,fried rice,junk,Night,832,3,2,Moderate,no
+U0614,Male,23,teriyaki chicken,balanced,Night,674,2,2,Moderate,yes
+U0615,Male,55,boba tea,junk,Afternoon,753,3,3,Moderate,yes
+U0616,Male,78,kimchi,healthy,Afternoon,581,2,3,Moderate,yes
+U0617,Male,49,tofu stir-fry,healthy,Evening,1199,3,3,Moderate,no
+U0618,Male,25,ramen,junk,Morning,775,7,1,Active,yes
+U0619,Female,38,tofu stir-fry,healthy,Morning,703,10,1,Active,no
+U0620,Female,66,tofu stir-fry,healthy,Morning,933,3,2,Moderate,no
+U0621,Female,50,sushi,healthy,Morning,522,8,2,Active,yes
+U0622,Male,45,fried rice,junk,Evening,611,8,1,Active,yes
+U0623,Male,36,pho,balanced,Morning,682,3,3,Sedentary,no
+U0624,Male,55,ramen,junk,Evening,1084,2,2,Moderate,no
+U0625,Male,44,fried rice,junk,Morning,897,1,2,Moderate,no
+U0626,Male,71,pho,balanced,Night,1055,1,2,Sedentary,yes
+U0627,Male,71,pho,balanced,Night,699,3,3,Moderate,no
+U0628,Female,65,sushi,healthy,Morning,760,3,2,Sedentary,no
+U0629,Male,52,spring rolls,healthy,Night,1102,2,2,Moderate,no
+U0630,Female,58,dumplings,balanced,Night,545,5,3,Moderate,no
+U0631,Male,31,fried rice,junk,Night,1009,1,2,Sedentary,no
+U0632,Male,75,sushi,healthy,Night,1095,10,2,Active,yes
+U0633,Male,28,teriyaki chicken,balanced,Afternoon,1050,9,2,Active,no
+U0634,Female,24,pho,balanced,Afternoon,936,9,1,Active,yes
+U0635,Female,57,dumplings,balanced,Evening,872,3,2,Sedentary,no
+U0636,Female,30,pho,balanced,Morning,1158,8,1,Active,no
+U0637,Female,33,kimchi,healthy,Night,802,4,2,Sedentary,yes
+U0638,Male,70,pho,balanced,Night,777,9,1,Active,no
+U0639,Male,66,fried rice,junk,Afternoon,810,10,1,Active,yes
+U0640,Female,19,pho,balanced,Afternoon,904,4,2,Moderate,yes
+U0641,Male,58,kimchi,healthy,Evening,614,8,2,Active,no
+U0642,Female,64,ramen,junk,Night,677,9,1,Active,no
+U0643,Female,61,sushi,healthy,Night,607,2,2,Sedentary,no
+U0644,Male,79,tofu stir-fry,healthy,Night,548,3,2,Sedentary,yes
+U0645,Female,53,boba tea,junk,Afternoon,797,3,2,Sedentary,no
+U0646,Male,58,teriyaki chicken,balanced,Morning,836,4,3,Moderate,no
+U0647,Male,66,teriyaki chicken,balanced,Afternoon,1050,7,1,Active,no
+U0648,Male,42,spring rolls,healthy,Morning,925,2,3,Moderate,no
+U0649,Female,79,teriyaki chicken,balanced,Night,848,3,3,Sedentary,no
+U0650,Male,79,boba tea,junk,Night,854,7,1,Active,yes
+U0651,Male,44,boba tea,junk,Afternoon,951,2,2,Moderate,no
+U0652,Male,35,teriyaki chicken,balanced,Morning,660,10,1,Active,no
+U0653,Male,22,fried rice,junk,Night,492,10,1,Active,yes
+U0654,Female,53,tofu stir-fry,healthy,Morning,637,5,2,Sedentary,yes
+U0655,Female,48,teriyaki chicken,balanced,Evening,296,1,3,Sedentary,yes
+U0656,Male,66,sushi,healthy,Night,492,1,3,Sedentary,no
+U0657,Male,41,dumplings,balanced,Evening,946,9,2,Active,yes
+U0658,Male,69,dumplings,balanced,Morning,742,7,2,Active,no
+U0659,Female,44,spring rolls,healthy,Night,891,1,3,Moderate,yes
+U0660,Male,24,teriyaki chicken,balanced,Afternoon,827,2,2,Sedentary,no
+U0661,Male,25,kimchi,healthy,Night,762,1,3,Moderate,no
+U0662,Female,65,teriyaki chicken,balanced,Afternoon,1130,2,2,Sedentary,no
+U0663,Male,45,fried rice,junk,Evening,1037,5,3,Moderate,yes
+U0664,Female,24,pho,balanced,Morning,555,7,1,Active,yes
+U0665,Male,54,dumplings,balanced,Afternoon,362,9,2,Active,no
+U0666,Female,41,ramen,junk,Night,870,9,2,Active,yes
+U0667,Male,57,ramen,junk,Morning,1162,7,2,Active,yes
+U0668,Male,37,sushi,healthy,Morning,1108,10,1,Active,yes
+U0669,Male,75,tofu stir-fry,healthy,Morning,1033,7,1,Active,no
+U0670,Female,50,tofu stir-fry,healthy,Evening,1164,1,2,Sedentary,no
+U0671,Male,22,dumplings,balanced,Afternoon,1023,3,2,Sedentary,no
+U0672,Male,57,dumplings,balanced,Afternoon,915,10,1,Active,yes
+U0673,Male,64,dumplings,balanced,Morning,806,2,2,Sedentary,no
+U0674,Female,68,pho,balanced,Evening,376,7,1,Active,yes
+U0675,Male,26,kimchi,healthy,Afternoon,694,5,2,Moderate,yes
+U0676,Male,42,kimchi,healthy,Morning,769,3,3,Moderate,no
+U0677,Male,34,pho,balanced,Morning,894,8,1,Active,yes
+U0678,Male,69,pho,balanced,Evening,1185,4,3,Moderate,yes
+U0679,Female,26,pho,balanced,Morning,580,10,1,Active,yes
+U0680,Female,24,dumplings,balanced,Evening,976,10,1,Active,yes
+U0681,Female,43,fried rice,junk,Evening,989,3,2,Sedentary,no
+U0682,Female,79,tofu stir-fry,healthy,Night,666,9,2,Active,yes
+U0683,Female,41,dumplings,balanced,Evening,864,7,1,Active,no
+U0684,Male,49,boba tea,junk,Evening,1122,3,2,Sedentary,yes
+U0685,Female,26,kimchi,healthy,Night,1096,9,2,Active,yes
+U0686,Female,26,tofu stir-fry,healthy,Morning,1063,7,1,Active,yes
+U0687,Male,52,fried rice,junk,Morning,1088,7,1,Active,yes
+U0688,Male,22,pho,balanced,Afternoon,1036,1,3,Sedentary,no
+U0689,Male,73,ramen,junk,Evening,631,7,1,Active,yes
+U0690,Female,33,pho,balanced,Night,534,2,3,Moderate,no
+U0691,Male,59,fried rice,junk,Evening,904,10,1,Active,no
+U0692,Female,37,sushi,healthy,Evening,855,2,3,Moderate,yes
+U0693,Male,54,teriyaki chicken,balanced,Night,740,5,3,Sedentary,no
+U0694,Male,75,ramen,junk,Afternoon,784,10,1,Active,yes
+U0695,Male,39,kimchi,healthy,Night,397,8,2,Active,no
+U0696,Male,28,fried rice,junk,Night,958,2,2,Moderate,yes
+U0697,Female,33,kimchi,healthy,Night,701,2,2,Moderate,no
+U0698,Female,46,dumplings,balanced,Morning,780,9,1,Active,no
+U0699,Male,42,boba tea,junk,Night,534,3,2,Sedentary,yes
+U0700,Male,48,pho,balanced,Evening,1100,3,3,Moderate,no
+U0701,Male,42,pho,balanced,Afternoon,677,10,1,Active,yes
+U0702,Female,35,pho,balanced,Night,571,1,2,Moderate,no
+U0703,Female,40,dumplings,balanced,Afternoon,808,7,1,Active,yes
+U0704,Female,67,fried rice,junk,Morning,999,3,3,Sedentary,no
+U0705,Male,42,sushi,healthy,Evening,668,3,3,Moderate,no
+U0706,Male,76,pho,balanced,Afternoon,1048,5,3,Sedentary,yes
+U0707,Female,46,pho,balanced,Night,909,5,2,Moderate,no
+U0708,Male,51,fried rice,junk,Afternoon,760,1,3,Moderate,no
+U0709,Female,38,ramen,junk,Night,1054,1,2,Moderate,no
+U0710,Male,43,sushi,healthy,Night,1118,4,2,Sedentary,no
+U0711,Female,68,ramen,junk,Afternoon,869,4,3,Sedentary,no
+U0712,Male,76,tofu stir-fry,healthy,Morning,1039,1,2,Sedentary,no
+U0713,Female,25,fried rice,junk,Night,563,3,2,Moderate,no
+U0714,Male,29,fried rice,junk,Morning,431,3,2,Moderate,yes
+U0715,Female,55,kimchi,healthy,Night,447,8,2,Active,yes
+U0716,Female,49,dumplings,balanced,Night,528,2,3,Moderate,no
+U0717,Female,39,kimchi,healthy,Evening,790,5,3,Sedentary,no
+U0718,Female,66,fried rice,junk,Night,907,10,2,Active,yes
+U0719,Male,78,sushi,healthy,Afternoon,1026,8,2,Active,no
+U0720,Male,36,sushi,healthy,Evening,531,2,3,Moderate,no
+U0721,Female,75,boba tea,junk,Night,419,5,3,Moderate,yes
+U0722,Female,55,spring rolls,healthy,Night,612,2,2,Sedentary,no
+U0723,Male,77,ramen,junk,Night,1259,1,3,Sedentary,yes
+U0724,Male,66,pho,balanced,Evening,948,7,1,Active,no
+U0725,Female,78,boba tea,junk,Morning,614,3,2,Moderate,yes
+U0726,Female,65,kimchi,healthy,Morning,729,4,3,Sedentary,no
+U0727,Male,74,pho,balanced,Night,1150,5,3,Moderate,no
+U0728,Female,34,sushi,healthy,Night,1050,1,3,Moderate,no
+U0729,Male,71,ramen,junk,Night,970,4,2,Sedentary,no
+U0730,Male,70,pho,balanced,Evening,613,5,3,Sedentary,no
+U0731,Female,18,spring rolls,healthy,Morning,941,2,3,Moderate,yes
+U0732,Male,27,spring rolls,healthy,Morning,630,4,3,Moderate,yes
+U0733,Male,49,fried rice,junk,Night,559,2,2,Moderate,no
+U0734,Female,69,kimchi,healthy,Afternoon,1143,3,3,Sedentary,no
+U0735,Female,59,teriyaki chicken,balanced,Night,884,1,3,Sedentary,yes
+U0736,Female,68,teriyaki chicken,balanced,Evening,707,8,1,Active,no
+U0737,Female,73,boba tea,junk,Evening,674,1,2,Moderate,no
+U0738,Female,52,teriyaki chicken,balanced,Night,612,4,2,Moderate,no
+U0739,Male,70,sushi,healthy,Afternoon,574,4,2,Sedentary,no
+U0740,Male,62,dumplings,balanced,Evening,735,4,2,Moderate,yes
+U0741,Female,19,kimchi,healthy,Afternoon,1009,7,2,Active,yes
+U0742,Female,57,teriyaki chicken,balanced,Night,553,10,2,Active,yes
+U0743,Female,33,sushi,healthy,Night,765,10,1,Active,yes
+U0744,Female,19,tofu stir-fry,healthy,Evening,654,5,3,Moderate,no
+U0745,Male,70,teriyaki chicken,balanced,Night,553,4,3,Sedentary,no
+U0746,Male,54,pho,balanced,Evening,513,7,1,Active,yes
+U0747,Male,78,pho,balanced,Morning,893,7,2,Active,no
+U0748,Male,66,boba tea,junk,Evening,931,2,3,Sedentary,yes
+U0749,Male,42,dumplings,balanced,Morning,1077,3,2,Sedentary,no
+U0750,Male,71,boba tea,junk,Morning,945,5,2,Sedentary,yes
+U0751,Male,50,kimchi,healthy,Evening,993,4,3,Moderate,no
+U0752,Female,54,fried rice,junk,Night,573,2,3,Sedentary,no
+U0753,Female,57,sushi,healthy,Morning,1057,4,3,Sedentary,no
+U0754,Male,43,sushi,healthy,Night,1209,2,2,Moderate,no
+U0755,Female,59,sushi,healthy,Night,1182,3,2,Sedentary,yes
+U0756,Female,35,kimchi,healthy,Morning,730,4,3,Sedentary,yes
+U0757,Female,31,spring rolls,healthy,Afternoon,1040,5,2,Moderate,yes
+U0758,Male,44,sushi,healthy,Evening,786,3,3,Moderate,no
+U0759,Male,42,boba tea,junk,Afternoon,602,3,3,Sedentary,no
+U0760,Male,56,pho,balanced,Night,1041,4,3,Sedentary,yes
+U0761,Male,79,dumplings,balanced,Morning,1013,2,3,Moderate,no
+U0762,Male,79,spring rolls,healthy,Evening,980,5,2,Sedentary,yes
+U0763,Male,39,fried rice,junk,Afternoon,996,1,2,Sedentary,no
+U0764,Male,41,sushi,healthy,Evening,719,4,2,Moderate,no
+U0765,Female,23,teriyaki chicken,balanced,Morning,554,4,2,Moderate,yes
+U0766,Female,31,teriyaki chicken,balanced,Night,1056,4,3,Moderate,no
+U0767,Male,25,spring rolls,healthy,Night,757,2,2,Moderate,no
+U0768,Male,64,dumplings,balanced,Afternoon,632,1,3,Moderate,no
+U0769,Female,53,sushi,healthy,Evening,1155,8,1,Active,yes
+U0770,Female,79,dumplings,balanced,Night,1077,8,1,Active,yes
+U0771,Female,59,tofu stir-fry,healthy,Morning,702,5,2,Sedentary,no
+U0772,Female,18,sushi,healthy,Night,1168,4,3,Sedentary,yes
+U0773,Female,53,spring rolls,healthy,Morning,1093,8,1,Active,no
+U0774,Male,66,dumplings,balanced,Evening,624,7,2,Active,yes
+U0775,Female,79,kimchi,healthy,Afternoon,713,9,2,Active,no
+U0776,Female,37,spring rolls,healthy,Evening,1084,4,3,Moderate,no
+U0777,Male,35,tofu stir-fry,healthy,Morning,718,5,3,Moderate,yes
+U0778,Male,61,spring rolls,healthy,Morning,751,1,2,Sedentary,yes
+U0779,Female,43,kimchi,healthy,Night,1185,4,3,Sedentary,no
+U0780,Female,76,kimchi,healthy,Morning,666,10,1,Active,yes
+U0781,Male,18,fried rice,junk,Afternoon,844,3,3,Moderate,yes
+U0782,Male,68,sushi,healthy,Afternoon,542,3,2,Moderate,no
+U0783,Male,42,ramen,junk,Night,746,1,2,Moderate,yes
+U0784,Male,77,kimchi,healthy,Afternoon,1068,1,2,Sedentary,no
+U0785,Male,25,boba tea,junk,Night,765,7,1,Active,no
+U0786,Male,79,pho,balanced,Afternoon,546,4,2,Moderate,no
+U0787,Male,45,sushi,healthy,Morning,540,7,1,Active,no
+U0788,Female,24,teriyaki chicken,balanced,Night,786,2,2,Sedentary,no
+U0789,Male,21,kimchi,healthy,Morning,687,5,2,Sedentary,no
+U0790,Female,39,fried rice,junk,Afternoon,891,2,3,Sedentary,yes
+U0791,Male,39,boba tea,junk,Night,686,5,2,Moderate,no
+U0792,Female,77,fried rice,junk,Afternoon,609,1,3,Sedentary,no
+U0793,Female,25,teriyaki chicken,balanced,Afternoon,714,3,2,Moderate,yes
+U0794,Female,76,spring rolls,healthy,Evening,642,9,1,Active,no
+U0795,Female,23,dumplings,balanced,Afternoon,923,10,2,Active,yes
+U0796,Female,33,fried rice,junk,Evening,661,7,1,Active,no
+U0797,Female,62,fried rice,junk,Afternoon,1092,2,3,Sedentary,yes
+U0798,Male,52,kimchi,healthy,Night,990,9,1,Active,yes
+U0799,Male,68,sushi,healthy,Afternoon,1117,2,3,Moderate,no
+U0800,Male,36,sushi,healthy,Morning,702,2,3,Moderate,no
+U0801,Female,35,kimchi,healthy,Afternoon,373,1,2,Moderate,no
+U0802,Male,75,boba tea,junk,Evening,763,3,3,Moderate,no
+U0803,Male,70,boba tea,junk,Afternoon,896,7,2,Active,yes
+U0804,Male,33,teriyaki chicken,balanced,Morning,1166,2,3,Sedentary,no
+U0805,Female,44,teriyaki chicken,balanced,Afternoon,643,3,3,Moderate,no
+U0806,Male,35,tofu stir-fry,healthy,Night,951,5,2,Moderate,yes
+U0807,Female,46,ramen,junk,Afternoon,770,2,3,Sedentary,yes
+U0808,Male,30,dumplings,balanced,Morning,868,5,3,Moderate,yes
+U0809,Male,24,boba tea,junk,Evening,1001,2,3,Sedentary,no
+U0810,Female,78,fried rice,junk,Night,1014,10,1,Active,yes
+U0811,Male,42,spring rolls,healthy,Morning,937,4,2,Moderate,yes
+U0812,Female,33,ramen,junk,Morning,505,9,1,Active,yes
+U0813,Female,25,teriyaki chicken,balanced,Evening,428,1,3,Moderate,no
+U0814,Male,65,teriyaki chicken,balanced,Night,586,2,2,Sedentary,no
+U0815,Female,35,boba tea,junk,Night,702,1,2,Moderate,yes
+U0816,Female,51,kimchi,healthy,Night,657,4,3,Moderate,no
+U0817,Female,34,kimchi,healthy,Afternoon,1116,3,3,Moderate,no
+U0818,Female,76,sushi,healthy,Morning,821,9,1,Active,yes
+U0819,Male,22,dumplings,balanced,Night,351,8,1,Active,no
+U0820,Male,76,teriyaki chicken,balanced,Night,767,4,3,Sedentary,no
+U0821,Female,64,boba tea,junk,Afternoon,622,7,2,Active,no
+U0822,Male,50,fried rice,junk,Afternoon,830,8,2,Active,no
+U0823,Female,31,spring rolls,healthy,Morning,1209,1,3,Moderate,no
+U0824,Male,19,teriyaki chicken,balanced,Evening,771,3,3,Sedentary,no
+U0825,Female,68,dumplings,balanced,Morning,809,2,3,Moderate,no
+U0826,Female,79,sushi,healthy,Afternoon,989,3,3,Sedentary,yes
+U0827,Male,28,boba tea,junk,Afternoon,589,1,3,Moderate,no
+U0828,Female,26,spring rolls,healthy,Evening,1002,7,1,Active,no
+U0829,Male,34,fried rice,junk,Morning,663,2,3,Sedentary,no
+U0830,Male,35,kimchi,healthy,Evening,592,9,2,Active,no
+U0831,Female,53,ramen,junk,Evening,416,1,3,Moderate,no
+U0832,Female,24,fried rice,junk,Morning,938,4,3,Sedentary,no
+U0833,Male,56,tofu stir-fry,healthy,Night,496,7,1,Active,no
+U0834,Female,79,tofu stir-fry,healthy,Afternoon,1002,4,2,Sedentary,no
+U0835,Male,75,tofu stir-fry,healthy,Morning,882,5,2,Moderate,yes
+U0836,Male,46,dumplings,balanced,Night,622,10,1,Active,yes
+U0837,Male,29,sushi,healthy,Morning,649,3,3,Moderate,yes
+U0838,Male,69,boba tea,junk,Night,813,10,1,Active,yes
+U0839,Female,78,boba tea,junk,Afternoon,1181,7,2,Active,no
+U0840,Male,36,dumplings,balanced,Morning,708,4,3,Sedentary,no
+U0841,Female,33,spring rolls,healthy,Night,590,7,1,Active,yes
+U0842,Female,75,spring rolls,healthy,Night,569,9,1,Active,yes
+U0843,Female,34,kimchi,healthy,Night,742,10,1,Active,yes
+U0844,Male,21,boba tea,junk,Night,937,2,2,Sedentary,no
+U0845,Female,49,spring rolls,healthy,Afternoon,848,3,2,Moderate,no
+U0846,Male,37,teriyaki chicken,balanced,Afternoon,843,1,2,Sedentary,no
+U0847,Male,42,kimchi,healthy,Afternoon,593,1,3,Sedentary,yes
+U0848,Male,42,teriyaki chicken,balanced,Night,646,3,2,Moderate,no
+U0849,Male,73,tofu stir-fry,healthy,Afternoon,835,1,3,Moderate,no
+U0850,Male,33,sushi,healthy,Afternoon,677,4,3,Sedentary,no
+U0851,Female,43,pho,balanced,Evening,1000,5,3,Moderate,no
+U0852,Male,25,ramen,junk,Evening,692,4,3,Moderate,no
+U0853,Female,54,tofu stir-fry,healthy,Night,797,10,1,Active,yes
+U0854,Male,20,tofu stir-fry,healthy,Morning,732,10,1,Active,no
+U0855,Male,26,ramen,junk,Evening,1048,1,3,Moderate,no
+U0856,Male,40,tofu stir-fry,healthy,Evening,1011,5,2,Moderate,no
+U0857,Male,57,fried rice,junk,Morning,699,2,2,Sedentary,no
+U0858,Female,79,dumplings,balanced,Afternoon,933,5,2,Sedentary,no
+U0859,Female,31,fried rice,junk,Evening,952,5,3,Moderate,no
+U0860,Male,55,fried rice,junk,Morning,1076,5,2,Moderate,yes
+U0861,Male,78,dumplings,balanced,Morning,899,9,1,Active,yes
+U0862,Male,62,kimchi,healthy,Night,556,7,2,Active,yes
+U0863,Male,45,ramen,junk,Evening,1104,7,1,Active,no
+U0864,Female,55,sushi,healthy,Morning,506,10,1,Active,no
+U0865,Male,66,boba tea,junk,Night,948,8,1,Active,yes
+U0866,Female,76,sushi,healthy,Evening,655,2,3,Moderate,no
+U0867,Female,24,fried rice,junk,Evening,829,2,3,Sedentary,yes
+U0868,Male,54,fried rice,junk,Morning,752,4,3,Sedentary,no
+U0869,Male,72,sushi,healthy,Afternoon,654,7,2,Active,no
+U0870,Male,49,spring rolls,healthy,Afternoon,499,2,2,Moderate,yes
+U0871,Male,50,teriyaki chicken,balanced,Morning,679,1,3,Moderate,no
+U0872,Female,43,boba tea,junk,Evening,301,7,1,Active,no
+U0873,Female,52,spring rolls,healthy,Afternoon,1247,9,1,Active,no
+U0874,Female,52,sushi,healthy,Night,870,8,1,Active,yes
+U0875,Female,57,spring rolls,healthy,Afternoon,685,5,2,Moderate,no
+U0876,Female,33,boba tea,junk,Afternoon,1077,5,3,Sedentary,no
+U0877,Male,23,fried rice,junk,Afternoon,641,1,2,Sedentary,no
+U0878,Female,79,boba tea,junk,Morning,909,4,3,Moderate,no
+U0879,Male,77,fried rice,junk,Night,626,3,2,Moderate,no
+U0880,Male,18,sushi,healthy,Afternoon,748,10,2,Active,yes
+U0881,Male,29,tofu stir-fry,healthy,Afternoon,807,8,2,Active,yes
+U0882,Male,53,ramen,junk,Evening,988,9,1,Active,yes
+U0883,Male,38,sushi,healthy,Evening,1160,3,2,Sedentary,no
+U0884,Female,28,fried rice,junk,Evening,421,9,2,Active,no
+U0885,Male,43,boba tea,junk,Evening,749,1,3,Sedentary,no
+U0886,Female,74,boba tea,junk,Afternoon,978,1,2,Sedentary,yes
+U0887,Male,69,teriyaki chicken,balanced,Morning,883,8,1,Active,yes
+U0888,Female,76,spring rolls,healthy,Evening,868,3,3,Sedentary,no
+U0889,Male,65,pho,balanced,Night,1034,4,3,Moderate,yes
+U0890,Female,64,sushi,healthy,Afternoon,839,2,3,Sedentary,no
+U0891,Male,56,ramen,junk,Morning,854,4,3,Sedentary,no
+U0892,Male,56,boba tea,junk,Night,756,7,2,Active,yes
+U0893,Male,56,fried rice,junk,Morning,1078,3,2,Moderate,yes
+U0894,Female,77,tofu stir-fry,healthy,Night,894,5,3,Sedentary,yes
+U0895,Female,78,dumplings,balanced,Afternoon,479,10,1,Active,no
+U0896,Male,74,fried rice,junk,Night,1028,5,3,Moderate,no
+U0897,Male,56,boba tea,junk,Morning,1071,1,2,Moderate,no
+U0898,Male,73,kimchi,healthy,Night,461,7,2,Active,yes
+U0899,Male,70,pho,balanced,Morning,797,9,1,Active,yes
+U0900,Female,79,fried rice,junk,Morning,1007,3,2,Sedentary,no
+U0901,Female,62,teriyaki chicken,balanced,Morning,1102,2,2,Moderate,no
+U0902,Female,58,spring rolls,healthy,Night,475,1,3,Moderate,no
+U0903,Male,22,tofu stir-fry,healthy,Evening,702,8,1,Active,yes
+U0904,Male,61,boba tea,junk,Morning,1022,3,3,Sedentary,no
+U0905,Female,36,kimchi,healthy,Morning,906,4,3,Moderate,yes
+U0906,Female,41,sushi,healthy,Morning,576,1,2,Sedentary,yes
+U0907,Female,23,dumplings,balanced,Evening,1071,7,1,Active,no
+U0908,Female,43,teriyaki chicken,balanced,Night,524,2,2,Moderate,no
+U0909,Male,69,boba tea,junk,Night,458,3,2,Sedentary,no
+U0910,Female,70,tofu stir-fry,healthy,Afternoon,779,10,2,Active,no
+U0911,Female,19,ramen,junk,Night,895,10,1,Active,yes
+U0912,Female,24,kimchi,healthy,Night,1058,8,1,Active,yes
+U0913,Female,75,spring rolls,healthy,Evening,945,2,2,Moderate,yes
+U0914,Male,26,fried rice,junk,Morning,746,3,2,Sedentary,yes
+U0915,Male,50,sushi,healthy,Evening,752,3,3,Sedentary,no
+U0916,Male,41,ramen,junk,Afternoon,954,8,2,Active,no
+U0917,Female,24,kimchi,healthy,Evening,569,10,1,Active,yes
+U0918,Female,29,pho,balanced,Evening,717,5,2,Sedentary,no
+U0919,Female,61,dumplings,balanced,Night,1185,8,1,Active,no
+U0920,Female,31,spring rolls,healthy,Evening,1303,3,2,Sedentary,no
+U0921,Female,53,spring rolls,healthy,Night,718,9,2,Active,no
+U0922,Male,75,boba tea,junk,Morning,592,3,3,Sedentary,no
+U0923,Male,77,boba tea,junk,Afternoon,772,3,3,Sedentary,no
+U0924,Male,75,teriyaki chicken,balanced,Night,992,5,2,Sedentary,no
+U0925,Female,79,ramen,junk,Afternoon,937,2,3,Moderate,no
+U0926,Male,64,fried rice,junk,Evening,1203,9,1,Active,no
+U0927,Male,54,ramen,junk,Evening,716,2,2,Moderate,no
+U0928,Female,28,tofu stir-fry,healthy,Afternoon,1003,4,3,Sedentary,no
+U0929,Male,22,kimchi,healthy,Morning,983,2,2,Moderate,yes
+U0930,Male,63,kimchi,healthy,Night,1312,8,1,Active,yes
+U0931,Female,24,tofu stir-fry,healthy,Evening,948,5,2,Sedentary,no
+U0932,Male,61,pho,balanced,Afternoon,653,8,2,Active,yes
+U0933,Female,79,ramen,junk,Night,852,2,3,Sedentary,yes
+U0934,Female,46,pho,balanced,Morning,505,4,3,Sedentary,no
+U0935,Female,70,ramen,junk,Afternoon,769,9,1,Active,yes
+U0936,Female,72,tofu stir-fry,healthy,Night,659,9,1,Active,no
+U0937,Male,27,teriyaki chicken,balanced,Afternoon,1106,2,3,Moderate,no
+U0938,Female,53,boba tea,junk,Evening,864,4,3,Sedentary,no
+U0939,Female,64,teriyaki chicken,balanced,Night,596,8,2,Active,yes
+U0940,Female,69,kimchi,healthy,Morning,881,1,2,Sedentary,yes
+U0941,Male,72,sushi,healthy,Evening,1063,2,2,Moderate,no
+U0942,Female,66,dumplings,balanced,Morning,611,7,2,Active,no
+U0943,Male,36,kimchi,healthy,Night,571,2,2,Moderate,no
+U0944,Female,62,sushi,healthy,Evening,1325,2,3,Sedentary,no
+U0945,Female,20,ramen,junk,Evening,812,2,2,Sedentary,yes
+U0946,Male,54,fried rice,junk,Afternoon,951,5,3,Sedentary,no
+U0947,Male,68,teriyaki chicken,balanced,Evening,345,9,2,Active,yes
+U0948,Female,47,teriyaki chicken,balanced,Evening,996,3,3,Moderate,yes
+U0949,Male,77,pho,balanced,Afternoon,1090,1,2,Sedentary,no
+U0950,Male,77,pho,balanced,Morning,479,4,3,Moderate,yes
+U0951,Female,77,dumplings,balanced,Afternoon,589,4,3,Moderate,no
+U0952,Female,54,kimchi,healthy,Night,1177,7,2,Active,yes
+U0953,Male,42,pho,balanced,Afternoon,724,3,3,Moderate,no
+U0954,Male,42,tofu stir-fry,healthy,Evening,607,1,2,Moderate,yes
+U0955,Female,35,fried rice,junk,Afternoon,655,4,3,Moderate,no
+U0956,Male,22,tofu stir-fry,healthy,Night,660,8,1,Active,yes
+U0957,Male,51,dumplings,balanced,Morning,911,3,2,Moderate,no
+U0958,Male,25,sushi,healthy,Morning,751,7,1,Active,yes
+U0959,Male,66,dumplings,balanced,Evening,1026,1,3,Sedentary,no
+U0960,Male,19,kimchi,healthy,Afternoon,757,7,1,Active,yes
+U0961,Female,30,sushi,healthy,Night,703,10,2,Active,no
+U0962,Male,23,pho,balanced,Night,536,4,3,Sedentary,yes
+U0963,Female,41,ramen,junk,Afternoon,1073,10,1,Active,no
+U0964,Male,47,sushi,healthy,Afternoon,920,7,2,Active,yes
+U0965,Female,18,kimchi,healthy,Afternoon,689,3,2,Sedentary,no
+U0966,Female,77,boba tea,junk,Night,591,10,2,Active,yes
+U0967,Female,43,boba tea,junk,Afternoon,616,9,2,Active,yes
+U0968,Female,44,spring rolls,healthy,Evening,1011,2,3,Sedentary,no
+U0969,Male,61,teriyaki chicken,balanced,Morning,824,7,1,Active,yes
+U0970,Male,56,dumplings,balanced,Morning,964,4,2,Moderate,no
+U0971,Male,54,spring rolls,healthy,Afternoon,607,7,2,Active,no
+U0972,Male,45,boba tea,junk,Afternoon,1169,7,1,Active,yes
+U0973,Male,50,teriyaki chicken,balanced,Afternoon,927,10,2,Active,no
+U0974,Male,77,teriyaki chicken,balanced,Morning,1247,3,3,Sedentary,no
+U0975,Female,23,spring rolls,healthy,Afternoon,452,3,3,Moderate,no
+U0976,Male,44,teriyaki chicken,balanced,Afternoon,882,4,3,Moderate,no
+U0977,Female,30,fried rice,junk,Afternoon,589,10,2,Active,yes
+U0978,Male,23,spring rolls,healthy,Night,421,2,2,Sedentary,yes
+U0979,Male,18,kimchi,healthy,Evening,600,10,1,Active,yes
+U0980,Female,40,pho,balanced,Morning,643,8,2,Active,yes
+U0981,Female,42,ramen,junk,Morning,1129,9,1,Active,yes
+U0982,Male,67,fried rice,junk,Morning,1268,1,2,Moderate,no
+U0983,Female,38,pho,balanced,Afternoon,905,4,2,Sedentary,no
+U0984,Male,65,ramen,junk,Morning,1035,1,2,Moderate,no
+U0985,Female,63,sushi,healthy,Morning,925,2,2,Moderate,no
+U0986,Male,58,tofu stir-fry,healthy,Afternoon,1204,3,2,Moderate,yes
+U0987,Female,40,kimchi,healthy,Night,866,2,2,Sedentary,yes
+U0988,Male,67,spring rolls,healthy,Morning,653,10,1,Active,no
+U0989,Female,65,spring rolls,healthy,Afternoon,734,8,1,Active,yes
+U0990,Male,25,kimchi,healthy,Afternoon,954,10,2,Active,yes
+U0991,Female,52,kimchi,healthy,Evening,1040,3,3,Moderate,yes
+U0992,Male,54,kimchi,healthy,Morning,922,3,2,Moderate,no
+U0993,Male,47,pho,balanced,Morning,720,1,3,Sedentary,yes
+U0994,Female,36,ramen,junk,Morning,714,4,3,Sedentary,no
+U0995,Female,58,boba tea,junk,Evening,646,4,2,Sedentary,no
+U0996,Male,49,pho,balanced,Evening,547,7,2,Active,yes
+U0997,Female,63,sushi,healthy,Afternoon,1141,9,2,Active,no
+U0998,Male,60,kimchi,healthy,Evening,953,2,3,Moderate,no
+U0999,Female,50,sushi,healthy,Afternoon,793,8,1,Active,no
+U1000,Male,77,fried rice,junk,Afternoon,828,8,1,Active,yes
